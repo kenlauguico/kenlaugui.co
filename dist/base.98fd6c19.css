@@ -341,7 +341,7 @@ main {
 .tiles--columns-rotated .tiles__line-img {
 	--tile-margin: 3vw 0;
 	width: 100%;
-	height: 400px;
+	height: 200px;
 }
 
 .tiles--columns .tiles__line-img {

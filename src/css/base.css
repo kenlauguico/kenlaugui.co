@@ -199,11 +199,11 @@ main {
 }
 
 .tiles--columns-rotated {
-	--tiles-height: 180vmax;
+	--tiles-height: 90vmax;
 }
 
 .tiles--columns {
-	--tiles-height: 140vh;
+	--tiles-height: 70vh;
 }
 
 .tiles--oneline {

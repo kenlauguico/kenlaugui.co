@@ -469,6 +469,13 @@ html.has-scroll-dragging {
 	cursor: grabbing; 
 }
 
+img {
+	transform: scale(0.8);
+}
+
+#vps1 { display: block }
+#vps2 { display: none }
+
 @media screen and (min-width: 53em) {
 	.frame {
 		display: grid;
@@ -529,4 +536,6 @@ html.has-scroll-dragging {
 	.tiles--small {
 		--tiles-height: 240px;
 	}
+	#vps1 { display: none }
+	#vps2 { display: block }
 }

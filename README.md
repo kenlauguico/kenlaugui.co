@@ -1,4 +1,12 @@
-# Image Tiles Scroll Animation
+# hi!
+
+If you're reading this, then you're probably curious as to what this is. or why there even is a readme to your personal website.
+
+In one of my computer science classes I was taking a few years back, one of my professors said that coders are lazy. This is my little journey of being a lazy coder.
+
+Follow my journey as I fork this codrops template and repurpose it for my personal website!
+
+---
 
 Scroll animations for image grids using [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/).
 
